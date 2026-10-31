@@ -1,0 +1,32 @@
+bir
+ikki
+uch
+tort
+besh
+olti
+sakkiz
+on
+bir
+ikki
+uch
+tort
+besh
+olti
+sakkiz
+on
+ikkinchi fayilda  bir-4 kop qatnashgan. 
+
+Birinchi fayildagi ikki-1 bilan ikkinchi fayildagi ikki-1 bilan teng. 
+
+ikkinchi fayilda  uch-2 kop qatnashgan. 
+
+Birinchi fayildagi tort-1 bilan ikkinchi fayildagi tort-1 bilan teng. 
+
+Birinchi fayildagi besh-1 bilan ikkinchi fayildagi besh-1 bilan teng. 
+
+Birinchi fayilda  olti-2 kop qatnashgan.
+
+Birinchi fayildagi sakkiz-1 bilan ikkinchi fayildagi sakkiz-1 bilan teng. 
+
+ikkinchi fayilda  on-4 kop qatnashgan. 
+

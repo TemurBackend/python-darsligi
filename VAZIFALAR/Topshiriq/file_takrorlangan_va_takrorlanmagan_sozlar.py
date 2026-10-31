@@ -12,6 +12,7 @@ def joy(n):
         
     return sozlar1
 
+
 def anqla(lis,n):
     qa = 0
     for i in range(len(lis)):

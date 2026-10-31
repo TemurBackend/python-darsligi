@@ -1,50 +1,8 @@
-salom Dunyo 
-' assalom Nima 
-arra olcha " 
-abror An"or 
-,lola bola 
-a.lla poya 
-kiyik soya 
-s?amon os!mon 
-ik'ki u'ch 
-ikki tepa past o'ng chap 
-ikki past 
-g'ul 
-.....ikki or,,,,,,,ta 
-...... ikki yon 
-,,,,?????, samon yongin 
-"" arra sara 
-besh o'n """"""besh 
-besh olti 
-besh olm""""""a 
-besh bosh 
-besh kol 
-gul lola 
-gul shah 
-gul sho hi 
-gul boshi 
-gul bargi 
-
-nimadir 
-
-
-
-
-o'lja 
-g'anjali 
-a'lo 
-' 
-
-? 
-. 
-
-
-
-
-
-
-
-
-
-
-hechnarsa 
+Siz kiritgan bu python sozi 4 marotaba takrorlangan 
+====================================================================================================
+siz kiritgan bu soz manabyu qatorda joylashgan: [1, 3, 5, 8]
+====================================================================================================
+python  Sozi  1-uchrashi: 1-qatorda, undan oldingi soz: Mavjud emas, o'zi: Python, undan keyingi soz: dasturlash
+python  Sozi  2-uchrashi: 3-qatorda, undan oldingi soz: foydali, o'zi: Python, undan keyingi soz: Kitob
+python  Sozi  3-uchrashi: 5-qatorda, undan oldingi soz: yaratadi, o'zi: Python, undan keyingi soz: CSS
+python  Sozi  4-uchrashi: 8-qatorda, undan oldingi soz: JavaScript3, o'zi: python, undan keyingi soz: juda

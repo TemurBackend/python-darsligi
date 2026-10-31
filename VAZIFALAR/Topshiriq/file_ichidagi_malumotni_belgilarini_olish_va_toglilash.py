@@ -67,6 +67,13 @@ def joy(n):
     return sozlar1
 
 
+
+
+
+
+
+
+
 with open('matin.txt', 'r') as file:
     with open('yangi_matn.txt', 'w') as yangi_file:
         while True:

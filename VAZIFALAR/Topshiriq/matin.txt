@@ -1,50 +1,9 @@
-Dunyo salom 
-Nima assalom '
-" olcha arra 
-An"or abror 
-bola ,lola 
-poya a.lla 
-soya kiyik 
-os!mon s?amon 
-u'ch ik'ki 
-chap o'ng past tepa ikki 
-past ikki 
-g'ul
-or,,,,,,,ta  .....ikki 
-yon ikki ......
-yongin samon ,,,,?????,
-sara arra ""
-""""""besh o'n besh 
-olti besh 
-olm""""""a besh 
-bosh besh 
-kol besh 
-lola gul 
-shah gul 
-hi sho gul 
-boshi gul 
-bargi gul 
+Python dasturlash juda qiziqarli.  yordamida ko‘plab dasturlar yaratish mumkin. Dasturlashni o‘rganish uchun ko‘p mashq qilish kerak.  dasturlash tilini o‘rganish oson, chunki  tili sodda va tushunarli. sakkizmi
 
-nimadir 
+Kitob o‘qish inson uchun foydali. Python Kitob insonning bilimini oshiradi. Har kuni kitob o‘qish yaxshi odat hisoblanadi. Kitob o‘qigan inson ko‘proq bilimga ega bo‘ladi. Bilim insonni rivojlantiradi.
 
-
-
-
-o'lja
-g'anjali
-a'lo
-'
-
-?
-.
-
-
-
-
-
-
-
-
-
-
-hechnarsa 
+Dasturlash orqali sayt yaratish mumkin. Sayt yaratish uchun HTML, CSS va JavaScript kerak. HTML saytning tuzilishini yaratadi. Python CSS saytning ko‘rinishini bezaydi. JavaScript saytga harakat va imkoniyat qo‘shadi.
+hfgfvjhgcjh
+JavaScript1saloma
+JavaScript3 python 
+juda juda juda zo'r dastur juda yoq juda judayam
